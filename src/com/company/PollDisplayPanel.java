@@ -1,3 +1,4 @@
+//Evan Lay 3B
 package com.company; /**
  * A PollDisplayPanel holds the vote counts and
  * displays the numbers and the pie chart for
